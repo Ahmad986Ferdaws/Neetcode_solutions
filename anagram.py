@@ -3,5 +3,5 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        return sorted(s) == sorted(t) 
+        return sorted(s) == sorted(t) aaaa
 
